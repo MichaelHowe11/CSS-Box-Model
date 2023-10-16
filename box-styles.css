@@ -30,16 +30,15 @@ strong {
 
 div {
     color: #FFF;
-    background-color: #4A90E2;
+    background-color: #5995DA;
     font-weight: bold;
     padding: 20px;
     text-align: center;
-
+    border: 4px solid #5D6063;
+    border-radius: 5px;
     width: 200px;
     box-sizing: border-box;
     margin: 20px auto;
-    border: 3px solid black;
-
   }
 
 body {
